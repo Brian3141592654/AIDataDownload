@@ -1,0 +1,5 @@
+   autoexec.sh 
+-> TakeGuess/run_all.sh (
+	->sync_from_net.sh
+	->demo4.py
+	->sync_to_net.sh
