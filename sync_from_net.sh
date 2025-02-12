@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 FILENAME='stocklist.txt'
-HOST='192.168.1.3'
+HOST='192.   .   .  '
 USER='user'
 PASS='user'
 REMOTEFOLDER='/DATA/share/cc2024'
