@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-cd /home/alilong/TakeGuess
+cd /home/TakeGuess
 ./sync_from_net.sh
 
 DESTPATH=~/TakeGuess_data/cc2024
