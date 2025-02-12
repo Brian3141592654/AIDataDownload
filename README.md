@@ -16,9 +16,9 @@ This project automates downloading stock data from [TWSE](https://bsr.twse.com.t
 The files should be run in the following order:  
 
 1. **`run_all.sh`** - The main script to start the entire process.  
-2. **`sync_from_net.sh`** - Syncs the latest data from the internet.  
-3. **`demo4.py`** - 💡 *Core Functionality*: This is where the AI magic happens for captcha recognition and data extraction.  
-4. **`sync_to_net.sh`** - Uploads the processed data for storage or further analysis.  
+2. **`sync_from_net.sh`** - Syncs the latest data from the local files on the PC. (also deletes files)  
+3. **`demo4.py`** - 💡 *Core Functionality*: Captcha recognition and data download.  
+4. **`sync_to_net.sh`** - Reloads the downloaded data into the local files.  
 
 ```bash
 # To run the entire process, simply use:
