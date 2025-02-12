@@ -1,9 +1,9 @@
 #!/usr/bin/bash
-HOST='192.168.1.3'
+HOST='192.   .   .   '
 USER='user'
 PASS='user'
-TARGETFOLDER='/DATA/share/YY_F1/cc2024'/$TODAY
-SOURCEFOLDER='/home/alilong/TakeGuess_data/cc2024'/$TODAY
+TARGETFOLDER='/DATA/share/cc2024'/$TODAY
+SOURCEFOLDER='/home/TakeGuess_data/cc2024'/$TODAY
 
 echo .........
 echo Mirror $HOST$TARGETFOLDER
