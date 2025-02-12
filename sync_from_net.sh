@@ -3,8 +3,8 @@ FILENAME='stocklist.txt'
 HOST='192.168.1.3'
 USER='user'
 PASS='user'
-REMOTEFOLDER='/DATA/share/YY_F1/cc2024'
-LOCALFOLDER='/home/alilong/TakeGuess_data'
+REMOTEFOLDER='/DATA/share/cc2024'
+LOCALFOLDER='/home/TakeGuess_data'
 
 REMOTEFILE="${REMOTEFOLDER}/${FILENAME}"
 LOCALFILE="${LOCALFOLDER}/${FILENAME}"
